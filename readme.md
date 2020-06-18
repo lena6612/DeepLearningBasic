@@ -1,1 +1,1 @@
-### µö·¯´× ±âÃÊ(Deep Learning Basic) ½Ç½À
+### ë”¥ëŸ¬ë‹ ê°•ì¢Œ ì‹¤ìŠµ(Deep Learning Basic)
