@@ -1,5 +1,5 @@
 # Deep Learning 기초
 
-1. [딥러닝개요](https://github.com/lena6612/DeepLearningBasic/deeplearning/1_딥러닝개요.pdf)
+1. 딥러닝 강의자료 (https://github.com/lena6612/DeepLearningBasic/deeplearning)
 
-2. [신경망1](https://github.com/lena6612/DeepLearningBasic/deeplearning/2_NeuralNetwork1.pdf)
+2. 응용 데이터집합 (https://github.com/lena6612/DeepLearningBasic/data)
