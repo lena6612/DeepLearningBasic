@@ -1,5 +1,5 @@
-# Deep Learning ±âÃÊ
+# Deep Learning ê¸°ì´ˆ
 
-1. [µö·¯´×°³¿ä](https://github.com/lena6612/DeepLearningBasic/upload/master/deeplearning/1_µö·¯´×°³¿ä.pdf)
+1. [ë”¥ëŸ¬ë‹ê°œìš”](https://github.com/lena6612/DeepLearningBasic/deeplearning/1_ë”¥ëŸ¬ë‹ê°œìš”.pdf)
 
-2. [½Å°æ¸Á1](https://github.com/lena6612/DeepLearningBasic/upload/master/deeplearning/2_NeuralNetwork1.pdf)
+2. [ì‹ ê²½ë§1](https://github.com/lena6612/DeepLearningBasic/deeplearning/2_NeuralNetwork1.pdf)
