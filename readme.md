@@ -6,6 +6,7 @@
    (3)[다층신경망구현](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/3_NeuralNetwork2.pdf)  
       참고: https://github.com/ExcelsiorCJH/DLFromScratch/blob/master/Chap03-NeuralNetwork/Chap03-NeuralNetwork.ipynb  
    (4)[학습 (cost function  gradient decent algorithm)](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/4_Learning.pdf)    
-   (5)[개발환경 설치 (Anaconda, Jupyter Notebook)](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/5_개발환경.pdf)  
+   (5)[개발환경 설치 (Anaconda, Jupyter Notebook)](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/5_개발환경.pdf)   
+   (6)[다층신경망학습](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/6_다층신경망학습.pdf)  
       
 2. [data set](https://github.com/lena6612/DeepLearningBasic//tree/master/data)
