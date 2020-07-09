@@ -10,6 +10,7 @@
    (6)[다층신경망학습](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/6_다층신경망학습.pdf)  
    (7)[Backpropagation](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/7_backpropagation.pdf)  
    (8)[CNN개요](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/8_CNN1.pdf)  
+   (9)[CNN구현](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/8_CNN2.pdf)  
    
       
 2. [data set](https://github.com/lena6612/DeepLearningBasic//tree/master/data)
