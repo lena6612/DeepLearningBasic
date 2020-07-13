@@ -12,6 +12,7 @@
    (8)[CNN개요](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/8_CNN1.pdf)  
    (9)[CNN구현](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/9_CNN2.pdf)  
    (10)[Model Setting](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/10_ModelSetting.pdf)  
+   (11)[Data augmentation](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/11_dataAugmentation.pdf)  
    
       
 2. [data set](https://github.com/lena6612/DeepLearningBasic//tree/master/data)
