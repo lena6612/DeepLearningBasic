@@ -14,6 +14,8 @@
    (10)[Model Setting](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/10_ModelSetting.pdf)  
    (11)[Data augmentation](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/11_dataAugmentation.pdf)  
    (12)[CNN Architectures](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/12_CNNArchitectures.pdf)  
+   (13)[Transfer Learning](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/13_TransferLearning.pdf)  
+   
    
       
 2. [data set](https://github.com/lena6612/DeepLearningBasic//tree/master/data)
