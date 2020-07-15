@@ -17,3 +17,7 @@
    
       
 2. [data set](https://github.com/lena6612/DeepLearningBasic//tree/master/data)
+
+<참고>
+1. CIFAR10 improved CNN
+https://github.com/09rohanchopra/cifar10/blob/master/cifar10-improved-cnn.ipynb
