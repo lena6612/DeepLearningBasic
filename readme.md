@@ -17,6 +17,7 @@
    (13)[Transfer Learning](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/13_TransferLearning.pdf)  
    (14)[RNN](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/14_RNN.pdf)  
    (15)[강화학습](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/15_강화학습.pdf)  
+   (16)[강화학습_DQN](https://github.com/lena6612/DeepLearningBasic/tree/master/deeplearning/16_강화학습_DQN.pdf)  
    
       
 2. [data set](https://github.com/lena6612/DeepLearningBasic//tree/master/data)
